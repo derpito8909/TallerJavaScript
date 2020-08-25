@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(148, 187, 223);
+}
+
+.titulo {
+    color: white;
+}
+
+.container {
+    text-align: center;
+}
+
+.imagen-cantante {
+    border-radius: 100px;
+}
